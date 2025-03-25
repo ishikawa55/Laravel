@@ -4,21 +4,10 @@
 
 検索して出てきたWindowsターミナルを右クリックし、**管理者権限で**開く。
 
-![Windowsターミナル](https://gist.github.com/assets/131662659/09299299-edfe-4bd9-a182-488b3814a36f)
-
-```powershell
-wsl --install
-```
-
 - ユーザー名
 
 今回はバージョン管理に[Volta](https://volta.sh)を使用する。  
 以下のコマンドに従ってインストールする。
-
-```bash
-curl https://get.volta.sh/ | bash
-```
-
 
 Docker Desktop を WSL より先に導入していた場合は [#(以前からDockerdesktopを使用していた人向け)DockerDesktopの設定](#以前から-dockerdesktop-を使用していた人向け-dockerdesktop-の設定) を参照。
 
