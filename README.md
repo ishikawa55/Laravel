@@ -13,14 +13,22 @@
 # slot とコンポーネント
 
 
-# Tailwind CSS の導入と利用 (`Vite の設定を変更`, `docker compose の設定を変更`)
+# Tailwind CSS の導入と利用 (`Viteの設定を変更`, `docker compose の設定を変更`)
 
 
-# マイグレーションとシーダー (`DB構造のE-R図`, `シーダー`, 's')
+# マイグレーションとシーダー (`DB構造のE-R図`, `シーダー`, `ファクトリー`)
 
 
+# (DB)素のSQLクエリ (`DBトランザクション`)
 
 
+# (DB)クエリビルダー (`Where句`, `pagenate`, `count`, `join`, `subQuery`)
+
+
+# (DB)Eloquent ORM (`１対多のリレーション`, `多対多のリレーション`, `Soft Delete`)
+
+
+# N+1問題の解決
 
 
 検索して出てきたWindowsターミナルを右クリックし、**管理者権限で**開く。
