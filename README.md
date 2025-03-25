@@ -25,10 +25,15 @@
 # (DB)クエリビルダー (`Where句`, `pagenate`, `count`, `join`, `subQuery`)
 
 
-# (DB)Eloquent ORM (`１対多のリレーション`, `多対多のリレーション`, `Soft Delete`)
+# (DB)Eloquent ORM (`1対多のリレーション`, `多対多のリレーション`, `Soft Delete`)
 
 
 # N+1問題の解決
+
+
+# ルーディングの基本 (`名前付きルート`, `prefix とグループ`, `ルートモデルバインディング`)
+
+
 
 
 検索して出てきたWindowsターミナルを右クリックし、**管理者権限で**開く。
