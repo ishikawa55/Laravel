@@ -1,6 +1,27 @@
-# Laravel
+# Laravel＿概要
 
-# WSL2 環境構築 (with `node.js`, `git`, `docker-desktop`)
+
+# Model
+
+
+# Controller
+
+
+# View (`レイアウトとセクション`)
+
+
+# slot とコンポーネント
+
+
+# Tailwind CSS の導入と利用 (`Vite の設定を変更`, `docker compose の設定を変更`)
+
+
+# マイグレーションとシーダー (`DB構造のE-R図`, `シーダー`, 's')
+
+
+
+
+
 
 検索して出てきたWindowsターミナルを右クリックし、**管理者権限で**開く。
 
@@ -11,9 +32,6 @@
 
 Docker Desktop を WSL より先に導入していた場合は [#(以前からDockerdesktopを使用していた人向け)DockerDesktopの設定](#以前から-dockerdesktop-を使用していた人向け-dockerdesktop-の設定) を参照。
 
-> [!NOTE]
-> ArmのCPUが入ったPCの場合は下の`Docker Desktop for Windows - Arm (Beta)`よりダウンロードする。  
-> なお、最新のSnapdragonXが搭載されたSurfaceなどでない限り、特に気にする必要はない。
 
 > ユーアーアカウント制御 このアプリがデバイスに変更を加えることを許可しますか？
 
